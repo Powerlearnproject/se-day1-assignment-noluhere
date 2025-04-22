@@ -4,18 +4,18 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+1. Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering applies engineering principles to design, develop, test, and maintain software systems. It involves applying systematic, disciplined, and quantifiable approaches to software development, ensuring reliability, efficiency, and quality.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
-1. 1960s: 
+2. Identify and describe at least three key milestones in the evolution of software engineering.
+1960s: 
 The term "software engineering" was coined in response to the complexity and challenges of software development. This period marked a shift towards more systematic approaches to software development.
 
-2. 1970s: Structured Programming
+ 1970s: Structured Programming
 The introduction of structured programming principles improved software development efficiency and quality. This approach emphasized modular code, loops, and conditional statements, making software more maintainable and efficient.
 
-3. 1990s: Agile approaches, such as Scrum and Extreme Programming, emphasized flexibility, collaboration, and rapid delivery. Agile methodologies allowed teams to adapt to changing requirements and deliver software in shorter cycles.
+1990s: Agile approaches, such as Scrum and Extreme Programming, emphasized flexibility, collaboration, and rapid delivery. Agile methodologies allowed teams to adapt to changing requirements and deliver software in shorter cycles.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
